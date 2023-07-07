@@ -70,7 +70,7 @@ const props = withDefaults(defineProps<IModalProps>(), {
 </script>
 ```
 
-Then register this tamplate at /composables/modal.ts in modalComponents constant
+Then register this template at /composables/modal.ts in modalComponents constant
 
 Example:
 
