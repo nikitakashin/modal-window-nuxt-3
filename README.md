@@ -34,6 +34,8 @@ docker run -it -p 3000:3000 projectname
 ```js
 import { useModal, modalComponents } from '@/composables/modal';
 
+const modal = useModal();
+
 const modalWindowId = modal.show(modalComponents.notify, {
   title: 'Example title',
   text: 'Example text'
