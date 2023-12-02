@@ -1,7 +1,5 @@
 # modal-window-nuxt-3
 
-## Live demo => http://modal.commondev.ru/
-
 # Installation
 
 ```bash
